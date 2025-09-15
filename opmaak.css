@@ -1,6 +1,11 @@
 body {
   background-color: rgb(9, 181, 239);
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 
 h1 {
   color: rgb(243, 8, 47);
