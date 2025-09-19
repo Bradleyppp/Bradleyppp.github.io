@@ -1,6 +1,7 @@
 body {
   background-color:  black;
 }
+h2 { color: white; text-align:center;}
 ul {
   list-style-type: none;
   margin: middle;
