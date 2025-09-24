@@ -1,13 +1,7 @@
 body {
-  background-color:  rgb(158, 220, 223);
-}body, .application-main {
-    background-color: cyan
-    color: black   
+  background-color:  rgb(158, 220, 223); 
 }
-
-header.Header, footer.Footer {
-    background-color: #00b7eb
-}
+p { color: white; text-align: center;} 
 
 h1 { color: white; text-align: center;}
 h3 { color: white; text-align:center;}
