@@ -34,7 +34,13 @@ ul li a:hover {
   background-color: black;
 }
 
-H4 { color: white; text-align: center;
+h4 { color: white; text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 
