@@ -32,11 +32,12 @@ ul li a {
 
 ul li a:hover {
   background-color: black;
+H4 { color: white; text-align: center;
+}
 
 h1 {
   color: rgb(243, 8, 47);
   margin-left: 20px;
 
 }
-h4 { color: white; text-align: center;
-}
+
