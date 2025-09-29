@@ -50,3 +50,12 @@ h1 {
 
 }
 
+#video-container {
+    position: fixed;
+    bottom: 10px;   /* 10px van onderkant */
+    left: 10px;     /* 10px van linkerkant */
+    width: 320px;
+    height: 180px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 1000;
+}
