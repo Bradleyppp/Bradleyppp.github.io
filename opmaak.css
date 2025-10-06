@@ -3,6 +3,7 @@ body {
 }
 .kleur {
   background-image: url(kleurmodellen.jpeg);
+  background-repeat: no-repeat;
 }
 p { color: white; text-align: center;} 
 
