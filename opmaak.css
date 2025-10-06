@@ -6,6 +6,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.compressie {
+  background-image: repeating-conic-gradient(red 10%, yellow 20%);
+}
 p { color: white; text-align: center;} 
 
 h1 { color: white; text-align: center;}
