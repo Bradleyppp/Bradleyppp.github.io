@@ -16,7 +16,9 @@ body {
 }
 
 .index {
-  background-image: url('paper.gif');
+  background-image: url('paper.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 p { color: white; text-align: center;} 
 
