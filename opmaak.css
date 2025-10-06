@@ -14,6 +14,10 @@ body {
   background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
   
 }
+
+.index {
+  background-image: url('paper.gif');
+}
 p { color: white; text-align: center;} 
 
 h1 { color: white; text-align: center;}
