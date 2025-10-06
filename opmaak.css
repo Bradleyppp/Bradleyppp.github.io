@@ -8,10 +8,14 @@ body {
 }
 .compressie {
   background-image: repeating-conic-gradient(red 10%, yellow 20%);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .FutureStars {
   background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 p { color: white; text-align: center;} 
 
