@@ -4,6 +4,7 @@ body {
 .kleur {
   background-image: url(kleurmodellen.jpeg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 p { color: white; text-align: center;} 
 
