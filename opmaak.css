@@ -1,8 +1,8 @@
 body {
   background-color:  rgb(156, 241, 241); 
 }
-{
-  background-image: url (kleurmodellen.jpeg);
+.kleur {
+  background-image: url(kleurmodellen.jpeg);
 }
 p { color: white; text-align: center;} 
 
