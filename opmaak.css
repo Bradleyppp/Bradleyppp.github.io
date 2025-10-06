@@ -5,6 +5,7 @@ body {
   background-image: url(kleurmodellen.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 p { color: white; text-align: center;} 
 
