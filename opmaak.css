@@ -84,4 +84,12 @@ h1 {
     z-index: 1000;
 }
 
-
+.blok {
+  background-color: #3BA68C; /* groen-blauw */
+  color: black; /* tekstkleur */
+  padding: 20px; /* ruimte binnenin het blok */
+  margin: 20px auto; /* ruimte buiten het blok + centreren */
+  border-radius: 12px; /* afgeronde hoeken */
+  max-width: 800px; /* breedte beperken */
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1); /* optioneel: schaduw */
+}
