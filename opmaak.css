@@ -82,7 +82,8 @@ h1 {
     height: 180px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     z-index: 1000;
-p {
+.kleur
+    p {
   border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
 }
