@@ -8,11 +8,14 @@ body {
 }
 .compressie {
   background-image: repeating-conic-gradient(red 10%, yellow 20%);
-
-.binair
-  
-
 }
+
+.binair {
+background-image: url(Binair.png.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
 
 .FutureStars {
   background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
